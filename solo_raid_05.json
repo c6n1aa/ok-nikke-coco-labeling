@@ -1,0 +1,69 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "solo_raid_battle_finish",
+      "score": null,
+      "points": [
+        [
+          1151.0526315789473,
+          354.7368421052631
+        ],
+        [
+          1423.157894736842,
+          354.7368421052631
+        ],
+        [
+          1423.157894736842,
+          404.7368421052631
+        ],
+        [
+          1151.0526315789473,
+          404.7368421052631
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "solo_raid_battle_finish_confirm",
+      "score": null,
+      "points": [
+        [
+          1166.4359861591695,
+          1020.0
+        ],
+        [
+          1204.864864864865,
+          1020.0
+        ],
+        [
+          1204.864864864865,
+          1058.0622837370242
+        ],
+        [
+          1166.4359861591695,
+          1058.0622837370242
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "solo_raid_05.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560
+}

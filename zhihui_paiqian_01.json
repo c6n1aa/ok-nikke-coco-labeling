@@ -1,0 +1,128 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "box_bulletin_board_claim_feature",
+      "score": null,
+      "points": [
+        [
+          1411.9563997977884,
+          1189.2786160952335
+        ],
+        [
+          1432.3323615160352,
+          1189.2786160952335
+        ],
+        [
+          1432.3323615160352,
+          1225.072886297376
+        ],
+        [
+          1411.9563997977884,
+          1225.072886297376
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_bulletin_board_send_all_feature",
+      "score": null,
+      "points": [
+        [
+          1199.0,
+          1189.0
+        ],
+        [
+          1238.0,
+          1189.0
+        ],
+        [
+          1238.0,
+          1229.0
+        ],
+        [
+          1199.0,
+          1229.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "bulletin_board_windows_close",
+      "score": null,
+      "points": [
+        [
+          1596.570850202429,
+          176.77327935222672
+        ],
+        [
+          1630.7692307692307,
+          176.77327935222672
+        ],
+        [
+          1630.7692307692307,
+          212.10526315789477
+        ],
+        [
+          1596.570850202429,
+          212.10526315789477
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_bulletin_board_title",
+      "score": null,
+      "points": [
+        [
+          966.5248226950355,
+          175.88652482269504
+        ],
+        [
+          1282.8368794326243,
+          175.88652482269504
+        ],
+        [
+          1282.8368794326243,
+          258.15602836879447
+        ],
+        [
+          966.5248226950355,
+          258.15602836879447
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "zhihui_paiqian_01.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

@@ -1,0 +1,157 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "box_tribe_tower1",
+      "score": null,
+      "points": [
+        [
+          912.5757575757576,
+          757.6744186046512
+        ],
+        [
+          1090.0,
+          757.6744186046512
+        ],
+        [
+          1090.0,
+          793.2558139534884
+        ],
+        [
+          912.5757575757576,
+          793.2558139534884
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "tribe_tower_mark",
+      "score": null,
+      "points": [
+        [
+          1214.4364937388195,
+          108.69154101712246
+        ],
+        [
+          1299.7802197802198,
+          108.69154101712246
+        ],
+        [
+          1299.7802197802198,
+          170.32967032967034
+        ],
+        [
+          1214.4364937388195,
+          170.32967032967034
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_tribe_tower2",
+      "score": null,
+      "points": [
+        [
+          1098.6222692036645,
+          757.9069767441862
+        ],
+        [
+          1276.046511627907,
+          757.9069767441862
+        ],
+        [
+          1276.046511627907,
+          793.4883720930234
+        ],
+        [
+          1098.6222692036645,
+          793.4883720930234
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_tribe_tower3",
+      "score": null,
+      "points": [
+        [
+          1283.906803498827,
+          758.1153594675343
+        ],
+        [
+          1461.3310459230695,
+          758.1153594675343
+        ],
+        [
+          1461.3310459230695,
+          793.6967548163715
+        ],
+        [
+          1283.906803498827,
+          793.6967548163715
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_tribe_tower4",
+      "score": null,
+      "points": [
+        [
+          1469.953315126734,
+          758.3479176070692
+        ],
+        [
+          1647.3775575509765,
+          758.3479176070692
+        ],
+        [
+          1647.3775575509765,
+          793.9293129559064
+        ],
+        [
+          1469.953315126734,
+          793.9293129559064
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "ta_05.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

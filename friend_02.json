@@ -1,0 +1,41 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "friend_modal_confirm",
+      "score": null,
+      "points": [
+        [
+          1166.0,
+          1236.0
+        ],
+        [
+          1206.0,
+          1236.0
+        ],
+        [
+          1206.0,
+          1275.0
+        ],
+        [
+          1166.0,
+          1275.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "friend_02.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

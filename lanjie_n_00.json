@@ -1,0 +1,99 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "common_interception_active",
+      "score": null,
+      "points": [
+        [
+          1392.171875,
+          1272.390625
+        ],
+        [
+          1440.171875,
+          1272.390625
+        ],
+        [
+          1440.171875,
+          1335.390625
+        ],
+        [
+          1392.171875,
+          1335.390625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_common_interception_entry",
+      "score": null,
+      "points": [
+        [
+          1357.0653377630122,
+          1059.700996677741
+        ],
+        [
+          1389.047619047619,
+          1059.700996677741
+        ],
+        [
+          1389.047619047619,
+          1087.142857142857
+        ],
+        [
+          1357.0653377630122,
+          1087.142857142857
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "anomaly_interception_disable",
+      "score": null,
+      "points": [
+        [
+          1546.015625,
+          1269.53125
+        ],
+        [
+          1601.484375,
+          1269.53125
+        ],
+        [
+          1601.484375,
+          1325.390625
+        ],
+        [
+          1546.015625,
+          1325.390625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "lanjie_n_00.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

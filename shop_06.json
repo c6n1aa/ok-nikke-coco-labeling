@@ -1,0 +1,99 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "shop_buy_max",
+      "score": null,
+      "points": [
+        [
+          1517.0,
+          863.0
+        ],
+        [
+          1592.3015873015875,
+          863.0
+        ],
+        [
+          1592.3015873015875,
+          908.2010582010581
+        ],
+        [
+          1517.0,
+          908.2010582010581
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_shop_buy_max",
+      "score": null,
+      "points": [
+        [
+          1511.3953488372094,
+          856.0465116279071
+        ],
+        [
+          1602.093023255814,
+          856.0465116279071
+        ],
+        [
+          1602.093023255814,
+          951.3953488372094
+        ],
+        [
+          1511.3953488372094,
+          951.3953488372094
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_shop_item_area",
+      "score": null,
+      "points": [
+        [
+          142.79069767441857,
+          693.2558139534884
+        ],
+        [
+          2541.627906976744,
+          693.2558139534884
+        ],
+        [
+          2541.627906976744,
+          1387.4418604651162
+        ],
+        [
+          142.79069767441857,
+          1387.4418604651162
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "shop_06.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

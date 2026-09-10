@@ -1,0 +1,70 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "box_ark_ranking_reward_feature",
+      "score": null,
+      "points": [
+        [
+          2340.699729673529,
+          1342.8134747348722
+        ],
+        [
+          2367.1428571428573,
+          1342.8134747348722
+        ],
+        [
+          2367.1428571428573,
+          1374.2857142857142
+        ],
+        [
+          2340.699729673529,
+          1374.2857142857142
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "ark_ranking_page",
+      "score": null,
+      "points": [
+        [
+          1083.3333333333335,
+          107.7604166666666
+        ],
+        [
+          1476.0416666666667,
+          107.7604166666666
+        ],
+        [
+          1476.0416666666667,
+          154.6354166666666
+        ],
+        [
+          1083.3333333333335,
+          154.6354166666666
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "paiming_01.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

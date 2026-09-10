@@ -1,0 +1,41 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "rupee_flash_sale",
+      "score": null,
+      "points": [
+        [
+          1144.5365787511016,
+          534.2450335615976
+        ],
+        [
+          1199.1877415417996,
+          534.2450335615976
+        ],
+        [
+          1199.1877415417996,
+          580.7566614685743
+        ],
+        [
+          1144.5365787511016,
+          580.7566614685743
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "ruppe_flash_sale.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

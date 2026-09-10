@@ -1,0 +1,244 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "box_anomaly_interception_quick_battle_feature",
+      "score": null,
+      "points": [
+        [
+          1328.549007233808,
+          1204.0552969897892
+        ],
+        [
+          1361.978402046488,
+          1204.0552969897892
+        ],
+        [
+          1361.978402046488,
+          1230.8564497275415
+        ],
+        [
+          1328.549007233808,
+          1230.8564497275415
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_anomaly_interception_start_battle_feature",
+      "score": null,
+      "points": [
+        [
+          1580.6034482758623,
+          1335.3017241379312
+        ],
+        [
+          1635.7758620689658,
+          1335.3017241379312
+        ],
+        [
+          1635.7758620689658,
+          1372.210541070928
+        ],
+        [
+          1580.6034482758623,
+          1372.210541070928
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_anomaly_interception_team1",
+      "score": null,
+      "points": [
+        [
+          1219.5238095238094,
+          930.4761904761905
+        ],
+        [
+          1292.857142857143,
+          930.4761904761905
+        ],
+        [
+          1292.857142857143,
+          989.047619047619
+        ],
+        [
+          1219.5238095238094,
+          989.047619047619
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_anomaly_interception_team3",
+      "score": null,
+      "points": [
+        [
+          1398.0343876034813,
+          930.74294205052
+        ],
+        [
+          1471.3677209368147,
+          930.74294205052
+        ],
+        [
+          1471.3677209368147,
+          989.3143706219486
+        ],
+        [
+          1398.0343876034813,
+          989.3143706219486
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_anomaly_interception_team2",
+      "score": null,
+      "points": [
+        [
+          1309.047619047619,
+          930.0
+        ],
+        [
+          1382.3809523809525,
+          930.0
+        ],
+        [
+          1382.3809523809525,
+          988.5714285714286
+        ],
+        [
+          1309.047619047619,
+          988.5714285714286
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_anomaly_interception_team4",
+      "score": null,
+      "points": [
+        [
+          1487.6494728649259,
+          930.7125168046416
+        ],
+        [
+          1560.9828061982594,
+          930.7125168046416
+        ],
+        [
+          1560.9828061982594,
+          989.2839453760702
+        ],
+        [
+          1487.6494728649259,
+          989.2839453760702
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_anomaly_interception_team5",
+      "score": null,
+      "points": [
+        [
+          1576.1593876034813,
+          930.0076479328729
+        ],
+        [
+          1649.4927209368147,
+          930.0076479328729
+        ],
+        [
+          1649.4927209368147,
+          988.5790765043015
+        ],
+        [
+          1576.1593876034813,
+          988.5790765043015
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "anomaly_interception_team_select_page",
+      "score": null,
+      "points": [
+        [
+          931.4423076923077,
+          935.9380590339894
+        ],
+        [
+          976.4423076923077,
+          935.9380590339894
+        ],
+        [
+          976.4423076923077,
+          980.4148032200358
+        ],
+        [
+          931.4423076923077,
+          980.4148032200358
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "lanjie_06.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

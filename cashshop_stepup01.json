@@ -1,0 +1,99 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "cash_shop_limited_time_package",
+      "score": null,
+      "points": [
+        [
+          1185.3491122072041,
+          117.5518122124672
+        ],
+        [
+          1228.8095238095239,
+          117.5518122124672
+        ],
+        [
+          1228.8095238095239,
+          162.43386243386243
+        ],
+        [
+          1185.3491122072041,
+          162.43386243386243
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_cash_shop_stepup_free",
+      "score": null,
+      "points": [
+        [
+          1489.7222222222222,
+          756.1111111111111
+        ],
+        [
+          1670.689655172414,
+          756.1111111111111
+        ],
+        [
+          1670.689655172414,
+          814.6120689655172
+        ],
+        [
+          1489.7222222222222,
+          814.6120689655172
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_cash_shop_tab_bars",
+      "score": null,
+      "points": [
+        [
+          6.744186046511574,
+          366.51162790697686
+        ],
+        [
+          1156.7441860465117,
+          366.51162790697686
+        ],
+        [
+          1156.7441860465117,
+          447.90697674418607
+        ],
+        [
+          6.744186046511574,
+          447.90697674418607
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "cashshop_stepup01.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

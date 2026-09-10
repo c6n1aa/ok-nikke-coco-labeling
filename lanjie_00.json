@@ -1,0 +1,186 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "box_anomaly_interception_object",
+      "score": null,
+      "points": [
+        [
+          1062.4,
+          1047.2
+        ],
+        [
+          1504.0,
+          1047.2
+        ],
+        [
+          1504.0,
+          1112.8
+        ],
+        [
+          1062.4,
+          1112.8
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "anomaly_interception_active",
+      "score": null,
+      "points": [
+        [
+          1539.8557692307695,
+          1266.3461538461536
+        ],
+        [
+          1607.6200873362445,
+          1266.3461538461536
+        ],
+        [
+          1607.6200873362445,
+          1335.3711790393013
+        ],
+        [
+          1539.8557692307695,
+          1335.3711790393013
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "common_interception_disable",
+      "score": null,
+      "points": [
+        [
+          1398.2314410480349,
+          1275.3275109170306
+        ],
+        [
+          1435.131004366812,
+          1275.3275109170306
+        ],
+        [
+          1435.131004366812,
+          1327.7292576419213
+        ],
+        [
+          1398.2314410480349,
+          1327.7292576419213
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_anomaly_interception_battle_enter",
+      "score": null,
+      "points": [
+        [
+          1362.3450854700855,
+          1138.5717147435896
+        ],
+        [
+          1412.421875,
+          1138.5717147435896
+        ],
+        [
+          1412.421875,
+          1175.0
+        ],
+        [
+          1362.3450854700855,
+          1175.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "anomaly_interception_object_selector",
+      "score": null,
+      "points": [
+        [
+          1511.0,
+          1063.0
+        ],
+        [
+          1546.0,
+          1063.0
+        ],
+        [
+          1546.0,
+          1100.0
+        ],
+        [
+          1511.0,
+          1100.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "anomaly_interception_page",
+      "score": null,
+      "points": [
+        [
+          2253.237410071942,
+          183.71115631214195
+        ],
+        [
+          2331.6546762589924,
+          183.71115631214195
+        ],
+        [
+          2331.6546762589924,
+          278.273381294964
+        ],
+        [
+          2253.237410071942,
+          278.273381294964
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "lanjie_00.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

@@ -1,0 +1,41 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "box_enter_game",
+      "score": null,
+      "points": [
+        [
+          1106.896551724138,
+          1161.1637931034484
+        ],
+        [
+          1458.6206896551726,
+          1161.1637931034484
+        ],
+        [
+          1458.6206896551726,
+          1222.8017241379312
+        ],
+        [
+          1106.896551724138,
+          1222.8017241379312
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "gonggao_02.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

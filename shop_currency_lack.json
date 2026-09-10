@@ -1,0 +1,41 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "box_shop_no_currency",
+      "score": null,
+      "points": [
+        [
+          1122.6728189353157,
+          674.8021874732974
+        ],
+        [
+          1416.1702127659576,
+          674.8021874732974
+        ],
+        [
+          1416.1702127659576,
+          764.5390070921986
+        ],
+        [
+          1122.6728189353157,
+          764.5390070921986
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "shop_currency_lack.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

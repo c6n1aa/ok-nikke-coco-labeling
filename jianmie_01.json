@@ -1,0 +1,99 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "wipe_out_count",
+      "score": null,
+      "points": [
+        [
+          1329.0,
+          989.0
+        ],
+        [
+          1375.0,
+          989.0
+        ],
+        [
+          1375.0,
+          1027.0
+        ],
+        [
+          1329.0,
+          1027.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "wipe_out",
+      "score": null,
+      "points": [
+        [
+          1191.0,
+          1065.0
+        ],
+        [
+          1605.0,
+          1065.0
+        ],
+        [
+          1605.0,
+          1141.0
+        ],
+        [
+          1191.0,
+          1141.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_wipe_out_close",
+      "score": null,
+      "points": [
+        [
+          1560.064308681672,
+          337.2990353697749
+        ],
+        [
+          1590.610932475884,
+          337.2990353697749
+        ],
+        [
+          1590.610932475884,
+          368.8102893890675
+        ],
+        [
+          1560.064308681672,
+          368.8102893890675
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "jianmie_01.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

@@ -1,0 +1,273 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "box_rookie_arena_o1_cp",
+      "score": null,
+      "points": [
+        [
+          1317.5,
+          721.027502079715
+        ],
+        [
+          1433.6842105263156,
+          721.027502079715
+        ],
+        [
+          1433.6842105263156,
+          771.0526315789473
+        ],
+        [
+          1317.5,
+          771.0526315789473
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "rookie_arena_refresh",
+      "score": null,
+      "points": [
+        [
+          1461.3076808997866,
+          669.9269480391205
+        ],
+        [
+          1486.1182519280205,
+          669.9269480391205
+        ],
+        [
+          1486.1182519280205,
+          694.0359897172237
+        ],
+        [
+          1461.3076808997866,
+          694.0359897172237
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_rookie_arena_o1_free_encounter",
+      "score": null,
+      "points": [
+        [
+          1500.185158534377,
+          763.8051307101091
+        ],
+        [
+          1514.4112807782237,
+          763.8051307101091
+        ],
+        [
+          1514.4112807782237,
+          781.243252605144
+        ],
+        [
+          1500.185158534377,
+          781.243252605144
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_rookie_arena_o2_cp",
+      "score": null,
+      "points": [
+        [
+          1317.3872737587694,
+          922.8373716882619
+        ],
+        [
+          1433.157894736842,
+          922.8373716882619
+        ],
+        [
+          1433.157894736842,
+          973.1578947368421
+        ],
+        [
+          1317.3872737587694,
+          973.1578947368421
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_rookie_arena_o3_cp",
+      "score": null,
+      "points": [
+        [
+          1317.5,
+          1123.6842105263156
+        ],
+        [
+          1433.6842105263156,
+          1123.6842105263156
+        ],
+        [
+          1433.6842105263156,
+          1172.6315789473683
+        ],
+        [
+          1317.5,
+          1172.6315789473683
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_rookie_arena_o2_free_encounter",
+      "score": null,
+      "points": [
+        [
+          1501.1089692824125,
+          964.1431873275693
+        ],
+        [
+          1516.0229938468226,
+          964.1431873275693
+        ],
+        [
+          1516.0229938468226,
+          982.6057694469637
+        ],
+        [
+          1501.1089692824125,
+          982.6057694469637
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_rookie_arena_o3_free_encounter",
+      "score": null,
+      "points": [
+        [
+          1501.6960585188906,
+          1166.6399775172897
+        ],
+        [
+          1516.6060842258314,
+          1166.6399775172897
+        ],
+        [
+          1516.6060842258314,
+          1183.737474424217
+        ],
+        [
+          1501.6960585188906,
+          1183.737474424217
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_rookie_arena_player_cp",
+      "score": null,
+      "points": [
+        [
+          1486.031746031746,
+          398.68173258003765
+        ],
+        [
+          1570.0188323917139,
+          398.68173258003765
+        ],
+        [
+          1570.0188323917139,
+          436.31578947368416
+        ],
+        [
+          1486.031746031746,
+          436.31578947368416
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "rookie_arena_page",
+      "score": null,
+      "points": [
+        [
+          1099.4197391393652,
+          158.09438225326076
+        ],
+        [
+          1460.2803738317757,
+          158.09438225326076
+        ],
+        [
+          1460.2803738317757,
+          224.67289719626174
+        ],
+        [
+          1099.4197391393652,
+          224.67289719626174
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "xinren_jjc_01.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

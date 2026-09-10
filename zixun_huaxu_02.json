@@ -1,0 +1,41 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "conversation_skip",
+      "score": null,
+      "points": [
+        [
+          2405.232558139535,
+          24.94186046511633
+        ],
+        [
+          2431.0405643738977,
+          24.94186046511633
+        ],
+        [
+          2431.0405643738977,
+          47.24867724867727
+        ],
+        [
+          2405.232558139535,
+          47.24867724867727
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "zixun_huaxu_02.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

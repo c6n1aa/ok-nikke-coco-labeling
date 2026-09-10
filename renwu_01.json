@@ -1,0 +1,244 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "box_mission_claim",
+      "score": null,
+      "points": [
+        [
+          1417.1064467766118,
+          1279.2672413793105
+        ],
+        [
+          1451.7241379310346,
+          1279.2672413793105
+        ],
+        [
+          1451.7241379310346,
+          1312.0258620689656
+        ],
+        [
+          1417.1064467766118,
+          1312.0258620689656
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_mission_weekly_badge",
+      "score": null,
+      "points": [
+        [
+          1253.7980769230771,
+          229.32692307692307
+        ],
+        [
+          1276.394230769231,
+          229.32692307692307
+        ],
+        [
+          1276.394230769231,
+          250.48076923076923
+        ],
+        [
+          1253.7980769230771,
+          250.48076923076923
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "mission_page",
+      "score": null,
+      "points": [
+        [
+          1210.6824925816024,
+          147.00296735905047
+        ],
+        [
+          1348.367952522255,
+          147.00296735905047
+        ],
+        [
+          1348.367952522255,
+          174.30267062314542
+        ],
+        [
+          1210.6824925816024,
+          174.30267062314542
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_mission_msq_badge",
+      "score": null,
+      "points": [
+        [
+          1443.9017718670152,
+          229.52061837216792
+        ],
+        [
+          1466.497925713169,
+          229.52061837216792
+        ],
+        [
+          1466.497925713169,
+          250.6744645260139
+        ],
+        [
+          1443.9017718670152,
+          250.6744645260139
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_mission_achievement_badge",
+      "score": null,
+      "points": [
+        [
+          1628.0977486238055,
+          229.63341072699478
+        ],
+        [
+          1650.6939024699593,
+          229.63341072699478
+        ],
+        [
+          1650.6939024699593,
+          250.78725688084086
+        ],
+        [
+          1628.0977486238055,
+          250.78725688084086
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_mission_daily_badge",
+      "score": null,
+      "points": [
+        [
+          1066.7788461538462,
+          229.32692307692307
+        ],
+        [
+          1089.375,
+          229.32692307692307
+        ],
+        [
+          1089.375,
+          250.48076923076923
+        ],
+        [
+          1066.7788461538462,
+          250.48076923076923
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_mission_subtitle",
+      "score": null,
+      "points": [
+        [
+          939.5519064269064,
+          366.08200826950826
+        ],
+        [
+          1238.8526057276056,
+          366.08200826950826
+        ],
+        [
+          1238.8526057276056,
+          433.2148754023754
+        ],
+        [
+          939.5519064269064,
+          433.2148754023754
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "mission_page_close",
+      "score": null,
+      "points": [
+        [
+          1602.9023746701846,
+          85.69920844327181
+        ],
+        [
+          1633.245382585752,
+          85.69920844327181
+        ],
+        [
+          1633.245382585752,
+          117.36147757255941
+        ],
+        [
+          1602.9023746701846,
+          117.36147757255941
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "renwu_01.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

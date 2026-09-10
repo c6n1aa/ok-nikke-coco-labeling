@@ -1,0 +1,128 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "arena_page",
+      "score": null,
+      "points": [
+        [
+          1105.1633986928105,
+          284.3137254901961
+        ],
+        [
+          1461.456953642384,
+          284.3137254901961
+        ],
+        [
+          1461.456953642384,
+          448.34437086092714
+        ],
+        [
+          1105.1633986928105,
+          448.34437086092714
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "special_arena",
+      "score": null,
+      "points": [
+        [
+          1324.2105263157894,
+          740.0
+        ],
+        [
+          1436.8421052631577,
+          740.0
+        ],
+        [
+          1436.8421052631577,
+          777.3684210526316
+        ],
+        [
+          1324.2105263157894,
+          777.3684210526316
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "rookie_arena",
+      "score": null,
+      "points": [
+        [
+          952.6315789473683,
+          738.4210526315788
+        ],
+        [
+          1055.2631578947369,
+          738.4210526315788
+        ],
+        [
+          1055.2631578947369,
+          776.3157894736842
+        ],
+        [
+          952.6315789473683,
+          776.3157894736842
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "champion_arena",
+      "score": null,
+      "points": [
+        [
+          987.3684210526316,
+          1017.3684210526316
+        ],
+        [
+          1295.7894736842104,
+          1017.3684210526316
+        ],
+        [
+          1295.7894736842104,
+          1065.7894736842104
+        ],
+        [
+          987.3684210526316,
+          1065.7894736842104
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "jingjichang_01.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

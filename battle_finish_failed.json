@@ -1,0 +1,70 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "battle_finish_failed",
+      "score": null,
+      "points": [
+        [
+          1358.8709677419356,
+          464.0625
+        ],
+        [
+          1567.890625,
+          464.0625
+        ],
+        [
+          1567.890625,
+          510.3225806451613
+        ],
+        [
+          1358.8709677419356,
+          510.3225806451613
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "battle_finish_failed_back",
+      "score": null,
+      "points": [
+        [
+          37.588357588357816,
+          1316.008316008316
+        ],
+        [
+          75.42619542619563,
+          1316.008316008316
+        ],
+        [
+          75.42619542619563,
+          1354.8856548856547
+        ],
+        [
+          37.588357588357816,
+          1354.8856548856547
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "battle_finish_failed.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

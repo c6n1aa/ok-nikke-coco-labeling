@@ -1,0 +1,70 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "box_tower_enter",
+      "score": null,
+      "points": [
+        [
+          1245.0602409638554,
+          577.2289156626506
+        ],
+        [
+          1307.710843373494,
+          577.2289156626506
+        ],
+        [
+          1307.710843373494,
+          638.6746987951807
+        ],
+        [
+          1245.0602409638554,
+          638.6746987951807
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "tribe_tower_stage",
+      "score": null,
+      "points": [
+        [
+          1097.1052631578946,
+          564.4736842105262
+        ],
+        [
+          1161.3157894736842,
+          564.4736842105262
+        ],
+        [
+          1161.3157894736842,
+          657.1052631578947
+        ],
+        [
+          1097.1052631578946,
+          657.1052631578947
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "ta_04.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

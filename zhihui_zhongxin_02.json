@@ -1,0 +1,70 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "command_center_enter",
+      "score": null,
+      "points": [
+        [
+          1347.0,
+          1340.0
+        ],
+        [
+          1399.0,
+          1340.0
+        ],
+        [
+          1399.0,
+          1393.0
+        ],
+        [
+          1347.0,
+          1393.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "command_center_close",
+      "score": null,
+      "points": [
+        [
+          1020.0,
+          1341.015625
+        ],
+        [
+          1072.1875,
+          1341.015625
+        ],
+        [
+          1072.1875,
+          1392.1875
+        ],
+        [
+          1020.0,
+          1392.1875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "zhihui_zhongxin_02.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

@@ -1,0 +1,186 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "box_pass_mission_page",
+      "score": null,
+      "points": [
+        [
+          1436.92517989215,
+          444.021513841773
+        ],
+        [
+          1492.8258010101624,
+          444.021513841773
+        ],
+        [
+          1492.8258010101624,
+          472.59294241320157
+        ],
+        [
+          1436.92517989215,
+          472.59294241320157
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_pass_reward_page",
+      "score": null,
+      "points": [
+        [
+          1067.5453272821696,
+          444.5200275463433
+        ],
+        [
+          1122.049831786674,
+          444.5200275463433
+        ],
+        [
+          1122.049831786674,
+          471.09660412291987
+        ],
+        [
+          1067.5453272821696,
+          471.09660412291987
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "pass_page",
+      "score": null,
+      "points": [
+        [
+          1023.3485283043054,
+          354.28513084728723
+        ],
+        [
+          1081.4388489208634,
+          354.28513084728723
+        ],
+        [
+          1081.4388489208634,
+          421.76258992805754
+        ],
+        [
+          1023.3485283043054,
+          421.76258992805754
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "pass_close1",
+      "score": null,
+      "points": [
+        [
+          1598.1243926141885,
+          87.17201166180757
+        ],
+        [
+          1628.1243926141885,
+          87.17201166180757
+        ],
+        [
+          1628.1243926141885,
+          115.74344023323614
+        ],
+        [
+          1598.1243926141885,
+          115.74344023323614
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_pass_reward_claim_feature",
+      "score": null,
+      "points": [
+        [
+          1150.467289719626,
+          1311.1432297326667
+        ],
+        [
+          1208.8785046728972,
+          1311.1432297326667
+        ],
+        [
+          1208.8785046728972,
+          1357.4049119756573
+        ],
+        [
+          1150.467289719626,
+          1357.4049119756573
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_pass_page",
+      "score": null,
+      "points": [
+        [
+          1014.7368421052631,
+          309.4736842105263
+        ],
+        [
+          1086.3157894736842,
+          309.4736842105263
+        ],
+        [
+          1086.3157894736842,
+          424.7368421052631
+        ],
+        [
+          1014.7368421052631,
+          424.7368421052631
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "pass_03.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

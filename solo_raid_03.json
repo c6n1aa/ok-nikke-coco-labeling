@@ -1,0 +1,69 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "solo_raid_battle_team_select_page",
+      "score": null,
+      "points": [
+        [
+          1219.4736842105262,
+          934.4370860927153
+        ],
+        [
+          1637.6923076923076,
+          934.4370860927153
+        ],
+        [
+          1637.6923076923076,
+          999.9999999999999
+        ],
+        [
+          1219.4736842105262,
+          999.9999999999999
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_solo_raid_battle_start",
+      "score": null,
+      "points": [
+        [
+          1470.7692307692307,
+          1237.6923076923076
+        ],
+        [
+          1498.4615384615383,
+          1237.6923076923076
+        ],
+        [
+          1498.4615384615383,
+          1263.8461538461538
+        ],
+        [
+          1470.7692307692307,
+          1263.8461538461538
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "solo_raid_03.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560
+}

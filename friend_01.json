@@ -1,0 +1,70 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "box_friend_gift_feature",
+      "score": null,
+      "points": [
+        [
+          1364.0875443262412,
+          1202.259530141844
+        ],
+        [
+          1402.1187943262412,
+          1202.259530141844
+        ],
+        [
+          1402.1187943262412,
+          1243.431405141844
+        ],
+        [
+          1364.0875443262412,
+          1243.431405141844
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "friend_close",
+      "score": null,
+      "points": [
+        [
+          1581.0,
+          163.0
+        ],
+        [
+          1613.6690647482014,
+          163.0
+        ],
+        [
+          1613.6690647482014,
+          193.98081534772186
+        ],
+        [
+          1581.0,
+          193.98081534772186
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "friend_01.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

@@ -1,0 +1,70 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "solo_raid",
+      "score": null,
+      "points": [
+        [
+          27.084548104956426,
+          471.078431372549
+        ],
+        [
+          87.05645161290326,
+          471.078431372549
+        ],
+        [
+          87.05645161290326,
+          500.80645161290323
+        ],
+        [
+          27.084548104956426,
+          500.80645161290323
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "pass_selector",
+      "score": null,
+      "points": [
+        [
+          2260.3,
+          234.8
+        ],
+        [
+          2287.7,
+          234.8
+        ],
+        [
+          2287.7,
+          255.0
+        ],
+        [
+          2260.3,
+          255.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "dating01.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

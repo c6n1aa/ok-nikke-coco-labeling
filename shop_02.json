@@ -1,0 +1,99 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "general_shop_refresh_confirm",
+      "score": null,
+      "points": [
+        [
+          1335.0,
+          883.0
+        ],
+        [
+          1375.0,
+          883.0
+        ],
+        [
+          1375.0,
+          921.0
+        ],
+        [
+          1335.0,
+          921.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "general_shop_refresh_free",
+      "score": null,
+      "points": [
+        [
+          1304.6376811594203,
+          753.3333333333333
+        ],
+        [
+          1364.3478260869565,
+          753.3333333333333
+        ],
+        [
+          1364.3478260869565,
+          788.4057971014493
+        ],
+        [
+          1304.6376811594203,
+          788.4057971014493
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "general_shop_refresh_cancel",
+      "score": null,
+      "points": [
+        [
+          1003.5714285714286,
+          886.468253968254
+        ],
+        [
+          1033.1349206349207,
+          886.468253968254
+        ],
+        [
+          1033.1349206349207,
+          914.6428571428571
+        ],
+        [
+          1003.5714285714286,
+          914.6428571428571
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "shop_02.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

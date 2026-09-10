@@ -1,0 +1,98 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "solo_raid_quick_battle_page",
+      "score": null,
+      "points": [
+        [
+          1250.4761904761904,
+          555.7142857142857
+        ],
+        [
+          1308.5714285714284,
+          555.7142857142857
+        ],
+        [
+          1308.5714285714284,
+          600.4761904761905
+        ],
+        [
+          1250.4761904761904,
+          600.4761904761905
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "solo_raid_quick_battle_max",
+      "score": null,
+      "points": [
+        [
+          1423.5690235690236,
+          990.5387205387206
+        ],
+        [
+          1498.6531986531986,
+          990.5387205387206
+        ],
+        [
+          1498.6531986531986,
+          1034.983164983165
+        ],
+        [
+          1423.5690235690236,
+          1034.983164983165
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_solo_raid_quick_battle",
+      "score": null,
+      "points": [
+        [
+          1381.4285714285713,
+          1100.0
+        ],
+        [
+          1402.142857142857,
+          1100.0
+        ],
+        [
+          1402.142857142857,
+          1117.8571428571427
+        ],
+        [
+          1381.4285714285713,
+          1117.8571428571427
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "solo_raid_07.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560
+}

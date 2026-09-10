@@ -1,0 +1,99 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "solo_raid_page",
+      "score": null,
+      "points": [
+        [
+          2261.0810810810813,
+          1326.126126126126
+        ],
+        [
+          2366.4864864864867,
+          1326.126126126126
+        ],
+        [
+          2366.4864864864867,
+          1394.5945945945946
+        ],
+        [
+          2261.0810810810813,
+          1394.5945945945946
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_solo_raid_quick_battle_feature",
+      "score": null,
+      "points": [
+        [
+          1318.4209759485814,
+          1088.1720430107525
+        ],
+        [
+          1364.9462365591398,
+          1088.1720430107525
+        ],
+        [
+          1364.9462365591398,
+          1119.3548387096773
+        ],
+        [
+          1318.4209759485814,
+          1119.3548387096773
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_solo_raid_battle_feature",
+      "score": null,
+      "points": [
+        [
+          1419.829099576347,
+          1187.4336114077926
+        ],
+        [
+          1475.7692957270733,
+          1187.4336114077926
+        ],
+        [
+          1475.7692957270733,
+          1232.2186567584304
+        ],
+        [
+          1419.829099576347,
+          1232.2186567584304
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "solo_raid_01.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

@@ -1,0 +1,69 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "simulation_overclock_update",
+      "score": null,
+      "points": [
+        [
+          1186.2068965517242,
+          546.9396551724137
+        ],
+        [
+          1373.2758620689656,
+          546.9396551724137
+        ],
+        [
+          1373.2758620689656,
+          575.8189655172414
+        ],
+        [
+          1186.2068965517242,
+          575.8189655172414
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "simulation_overclock_update_close",
+      "score": null,
+      "points": [
+        [
+          1562.6859364435431,
+          548.2285327924272
+        ],
+        [
+          1592.4273157538878,
+          548.2285327924272
+        ],
+        [
+          1592.4273157538878,
+          577.5388776200134
+        ],
+        [
+          1562.6859364435431,
+          577.5388776200134
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "monishi_06.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560
+}

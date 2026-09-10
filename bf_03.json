@@ -1,0 +1,40 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "outpost_bf_confirm",
+      "score": null,
+      "points": [
+        [
+          1333.4883720930234,
+          879.3023255813954
+        ],
+        [
+          1377.6744186046512,
+          879.3023255813954
+        ],
+        [
+          1377.6744186046512,
+          922.325581395349
+        ],
+        [
+          1333.4883720930234,
+          922.325581395349
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "bf_03.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560
+}

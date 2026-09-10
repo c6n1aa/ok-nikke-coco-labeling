@@ -1,0 +1,244 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "ark_ranking",
+      "score": null,
+      "points": [
+        [
+          2461.5079365079364,
+          224.3650793650794
+        ],
+        [
+          2516.2403100775196,
+          224.3650793650794
+        ],
+        [
+          2516.2403100775196,
+          262.40310077519376
+        ],
+        [
+          2461.5079365079364,
+          262.40310077519376
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "ark_tribe_tower",
+      "score": null,
+      "points": [
+        [
+          1350.2747252747251,
+          319.46153846153845
+        ],
+        [
+          1554.6703296703297,
+          319.46153846153845
+        ],
+        [
+          1554.6703296703297,
+          470.00000000000006
+        ],
+        [
+          1350.2747252747251,
+          470.00000000000006
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "ark_simulation_room",
+      "score": null,
+      "points": [
+        [
+          927.7472527472527,
+          570.5494505494505
+        ],
+        [
+          1130.0,
+          570.5494505494505
+        ],
+        [
+          1130.0,
+          760.4761904761905
+        ],
+        [
+          927.7472527472527,
+          760.4761904761905
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "ark_interception",
+      "score": null,
+      "points": [
+        [
+          1001.0638297872341,
+          953.515625
+        ],
+        [
+          1202.443890274314,
+          953.515625
+        ],
+        [
+          1202.443890274314,
+          1169.0773067331672
+        ],
+        [
+          1001.0638297872341,
+          1169.0773067331672
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "ark_pvp",
+      "score": null,
+      "points": [
+        [
+          1395.046264048156,
+          705.4095771777892
+        ],
+        [
+          1596.6666666666665,
+          705.4095771777892
+        ],
+        [
+          1596.6666666666665,
+          843.3333333333333
+        ],
+        [
+          1395.046264048156,
+          843.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "common_back",
+      "score": null,
+      "points": [
+        [
+          25.853658536585364,
+          1342.1138211382113
+        ],
+        [
+          62.601626016260155,
+          1342.1138211382113
+        ],
+        [
+          62.601626016260155,
+          1377.560975609756
+        ],
+        [
+          25.853658536585364,
+          1377.560975609756
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "common_home",
+      "score": null,
+      "points": [
+        [
+          206.0162601626016,
+          1343.2520325203252
+        ],
+        [
+          237.56097560975607,
+          1343.2520325203252
+        ],
+        [
+          237.56097560975607,
+          1373.821138211382
+        ],
+        [
+          206.0162601626016,
+          1373.821138211382
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_ark_ranking_badge",
+      "score": null,
+      "points": [
+        [
+          2509.051724137931,
+          202.11206896551718
+        ],
+        [
+          2530.6034482758623,
+          202.11206896551718
+        ],
+        [
+          2530.6034482758623,
+          221.93965517241375
+        ],
+        [
+          2509.051724137931,
+          221.93965517241375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "fangzhou_01.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

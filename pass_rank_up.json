@@ -1,0 +1,41 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "pass_rank_up",
+      "score": null,
+      "points": [
+        [
+          1198.1669394435353,
+          658.2651391162029
+        ],
+        [
+          1361.669394435352,
+          658.2651391162029
+        ],
+        [
+          1361.669394435352,
+          693.2896890343699
+        ],
+        [
+          1198.1669394435353,
+          693.2896890343699
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "pass_rank_up.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

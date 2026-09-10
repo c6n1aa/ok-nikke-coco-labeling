@@ -1,0 +1,99 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "cash_shop_ordinary_package",
+      "score": null,
+      "points": [
+        [
+          1185.3491122072041,
+          117.5518122124672
+        ],
+        [
+          1223.586005830904,
+          117.5518122124672
+        ],
+        [
+          1223.586005830904,
+          155.1020408163265
+        ],
+        [
+          1185.3491122072041,
+          155.1020408163265
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_sub_pages_title",
+      "score": null,
+      "points": [
+        [
+          0.5882352941177807,
+          10.697674418604706
+        ],
+        [
+          313.7209302325581,
+          10.697674418604706
+        ],
+        [
+          313.7209302325581,
+          99.06976744186052
+        ],
+        [
+          0.5882352941177807,
+          99.06976744186052
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "cash_shop_free_package_sold_out",
+      "score": null,
+      "points": [
+        [
+          86.62233531784132,
+          703.6182062608027
+        ],
+        [
+          148.43335893988854,
+          703.6182062608027
+        ],
+        [
+          148.43335893988854,
+          728.0276550797004
+        ],
+        [
+          86.62233531784132,
+          728.0276550797004
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "cashshop_package_01.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

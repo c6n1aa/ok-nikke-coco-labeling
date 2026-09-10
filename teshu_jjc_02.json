@@ -1,0 +1,40 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "special_arena_reward_claim",
+      "score": null,
+      "points": [
+        [
+          1319.3518518518517,
+          1262.5
+        ],
+        [
+          1354.074074074074,
+          1262.5
+        ],
+        [
+          1354.074074074074,
+          1296.7592592592591
+        ],
+        [
+          1319.3518518518517,
+          1296.7592592592591
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "teshu_jjc_02.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560
+}

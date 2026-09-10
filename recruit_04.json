@@ -1,0 +1,40 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "recruit_ordinary_150",
+      "score": null,
+      "points": [
+        [
+          969.4002447980416,
+          1173.7943696450427
+        ],
+        [
+          1000.0,
+          1173.7943696450427
+        ],
+        [
+          1000.0,
+          1219.938800489596
+        ],
+        [
+          969.4002447980416,
+          1219.938800489596
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "recruit_04.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560
+}

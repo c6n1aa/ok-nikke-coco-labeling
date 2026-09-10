@@ -1,0 +1,99 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "box_rookie_arena_quick_battle_feature",
+      "score": null,
+      "points": [
+        [
+          1010.769230769231,
+          1178.2051282051282
+        ],
+        [
+          1207.5641025641025,
+          1178.2051282051282
+        ],
+        [
+          1207.5641025641025,
+          1225.0
+        ],
+        [
+          1010.769230769231,
+          1225.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_rookie_arena_quick_battle",
+      "score": null,
+      "points": [
+        [
+          1422.3076923076924,
+          1171.153846153846
+        ],
+        [
+          1437.6923076923076,
+          1171.153846153846
+        ],
+        [
+          1437.6923076923076,
+          1194.8717948717947
+        ],
+        [
+          1422.3076923076924,
+          1194.8717948717947
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "rookie_arena_battle_modal",
+      "score": null,
+      "points": [
+        [
+          1226.5665236051502,
+          637.3390557939914
+        ],
+        [
+          1333.5078534031413,
+          637.3390557939914
+        ],
+        [
+          1333.5078534031413,
+          717.5130890052355
+        ],
+        [
+          1226.5665236051502,
+          717.5130890052355
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "xinren_jjc_02.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

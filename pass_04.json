@@ -1,0 +1,41 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "pass_close2",
+      "score": null,
+      "points": [
+        [
+          1599.4148936170213,
+          79.25531914893617
+        ],
+        [
+          1627.0744680851064,
+          79.25531914893617
+        ],
+        [
+          1627.0744680851064,
+          106.91489361702126
+        ],
+        [
+          1599.4148936170213,
+          106.91489361702126
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "pass_04.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

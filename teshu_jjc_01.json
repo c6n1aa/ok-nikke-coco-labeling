@@ -1,0 +1,70 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "box_special_arena_reward",
+      "score": null,
+      "points": [
+        [
+          1227.0,
+          297.0
+        ],
+        [
+          1336.0,
+          297.0
+        ],
+        [
+          1336.0,
+          370.0
+        ],
+        [
+          1227.0,
+          370.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "special_arena_page",
+      "score": null,
+      "points": [
+        [
+          1105.4945054945053,
+          126.31868131868136
+        ],
+        [
+          1464.2857142857142,
+          126.31868131868136
+        ],
+        [
+          1464.2857142857142,
+          184.01098901098908
+        ],
+        [
+          1105.4945054945053,
+          184.01098901098908
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "teshu_jjc_01.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

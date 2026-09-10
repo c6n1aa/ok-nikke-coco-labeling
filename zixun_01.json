@@ -1,0 +1,128 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "advise_blooper_new",
+      "score": null,
+      "points": [
+        [
+          2516.379310344828,
+          1310.6379310344826
+        ],
+        [
+          2549.2241379310344,
+          1310.6379310344826
+        ],
+        [
+          2549.2241379310344,
+          1344.3534482758623
+        ],
+        [
+          2516.379310344828,
+          1344.3534482758623
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_advise_count_feature",
+      "score": null,
+      "points": [
+        [
+          1573.575783387384,
+          356.705551362108
+        ],
+        [
+          1595.897199705232,
+          356.705551362108
+        ],
+        [
+          1595.897199705232,
+          376.77966101694915
+        ],
+        [
+          1573.575783387384,
+          376.77966101694915
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_advise_nikke",
+      "score": null,
+      "points": [
+        [
+          362.05128205128216,
+          464.8717948717949
+        ],
+        [
+          433.8461538461539,
+          464.8717948717949
+        ],
+        [
+          433.8461538461539,
+          549.4871794871796
+        ],
+        [
+          362.05128205128216,
+          549.4871794871796
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "advise_page_icon",
+      "score": null,
+      "points": [
+        [
+          939.1525423728813,
+          289.32203389830505
+        ],
+        [
+          1140.593220338983,
+          289.32203389830505
+        ],
+        [
+          1140.593220338983,
+          325.76271186440675
+        ],
+        [
+          939.1525423728813,
+          325.76271186440675
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "zixun_01.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

@@ -1,0 +1,70 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "liberation",
+      "score": null,
+      "points": [
+        [
+          40.0,
+          154.0
+        ],
+        [
+          73.16939890710387,
+          154.0
+        ],
+        [
+          73.16939890710387,
+          189.0710382513661
+        ],
+        [
+          40.0,
+          189.0710382513661
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "advise",
+      "score": null,
+      "points": [
+        [
+          2112.9554655870443,
+          154.61538461538464
+        ],
+        [
+          2149.0,
+          154.61538461538464
+        ],
+        [
+          2149.0,
+          190.0
+        ],
+        [
+          2112.9554655870443,
+          190.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "niji_01.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

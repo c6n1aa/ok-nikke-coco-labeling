@@ -1,0 +1,98 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "outpost_defense_close",
+      "score": null,
+      "points": [
+        [
+          1586.6531850353892,
+          161.7593528816987
+        ],
+        [
+          1617.4924165824063,
+          161.7593528816987
+        ],
+        [
+          1617.4924165824063,
+          192.69969666329627
+        ],
+        [
+          1586.6531850353892,
+          192.69969666329627
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "outpost_defense_claim",
+      "score": null,
+      "points": [
+        [
+          1358.5714285714287,
+          1211.822660098522
+        ],
+        [
+          1395.7635467980297,
+          1211.822660098522
+        ],
+        [
+          1395.7635467980297,
+          1250.4926108374382
+        ],
+        [
+          1358.5714285714287,
+          1250.4926108374382
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "outpost_defense_wipe_out",
+      "score": null,
+      "points": [
+        [
+          1035.0553505535056,
+          1209.760147601476
+        ],
+        [
+          1073.0627306273063,
+          1209.760147601476
+        ],
+        [
+          1073.0627306273063,
+          1252.749077490775
+        ],
+        [
+          1035.0553505535056,
+          1252.749077490775
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "fangyu_01.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560
+}

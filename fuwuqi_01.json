@@ -1,0 +1,70 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "box_server_select",
+      "score": null,
+      "points": [
+        [
+          1096.660412757974,
+          315.7973733583489
+        ],
+        [
+          1468.4615384615383,
+          315.7973733583489
+        ],
+        [
+          1468.4615384615383,
+          374.6153846153846
+        ],
+        [
+          1096.660412757974,
+          374.6153846153846
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "server_select_confirm",
+      "score": null,
+      "points": [
+        [
+          1173.873873873874,
+          1036.0
+        ],
+        [
+          1204.864864864865,
+          1036.0
+        ],
+        [
+          1204.864864864865,
+          1058.1981981981983
+        ],
+        [
+          1173.873873873874,
+          1058.1981981981983
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "fuwuqi_01.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

@@ -1,0 +1,99 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "box_common_interception_quick_battle_feature",
+      "score": null,
+      "points": [
+        [
+          1339.232889297198,
+          1227.427770514587
+        ],
+        [
+          1381.7237317880404,
+          1227.427770514587
+        ],
+        [
+          1381.7237317880404,
+          1264.7904078772244
+        ],
+        [
+          1339.232889297198,
+          1264.7904078772244
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_common_interception_start_battle_feature",
+      "score": null,
+      "points": [
+        [
+          1328.7906775216074,
+          1353.8082369843332
+        ],
+        [
+          1382.9548112602092,
+          1353.8082369843332
+        ],
+        [
+          1382.9548112602092,
+          1388.342178220402
+        ],
+        [
+          1328.7906775216074,
+          1388.342178220402
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "common_interception_page",
+      "score": null,
+      "points": [
+        [
+          41.627906976744136,
+          176.97674418604657
+        ],
+        [
+          259.0697674418604,
+          176.97674418604657
+        ],
+        [
+          259.0697674418604,
+          266.51162790697686
+        ],
+        [
+          41.627906976744136,
+          266.51162790697686
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "lanjie_n_01.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

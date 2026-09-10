@@ -1,0 +1,99 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "box_cash_shop_nav_bar",
+      "score": null,
+      "points": [
+        [
+          0.9876543209878719,
+          278.0246913580247
+        ],
+        [
+          1025.6790123456792,
+          278.0246913580247
+        ],
+        [
+          1025.6790123456792,
+          361.97530864197535
+        ],
+        [
+          0.9876543209878719,
+          361.97530864197535
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "cash_shop_nav_limited_time_package",
+      "score": null,
+      "points": [
+        [
+          140.72961373390564,
+          296.137339055794
+        ],
+        [
+          185.36480686695282,
+          296.137339055794
+        ],
+        [
+          185.36480686695282,
+          345.49356223175965
+        ],
+        [
+          140.72961373390564,
+          345.49356223175965
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "cash_shop_nav_ordinary_package",
+      "score": null,
+      "points": [
+        [
+          248.0257510729614,
+          296.5665236051502
+        ],
+        [
+          286.6523605150215,
+          296.5665236051502
+        ],
+        [
+          286.6523605150215,
+          339.0557939914163
+        ],
+        [
+          248.0257510729614,
+          339.0557939914163
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "cashshop_package_04.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

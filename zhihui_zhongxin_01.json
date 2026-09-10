@@ -1,0 +1,99 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "bulletin_board",
+      "score": null,
+      "points": [
+        [
+          1303.5880398671095,
+          1335.0961538461538
+        ],
+        [
+          1367.7403846153845,
+          1335.0961538461538
+        ],
+        [
+          1367.7403846153845,
+          1381.9711538461538
+        ],
+        [
+          1303.5880398671095,
+          1381.9711538461538
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "command_center",
+      "score": null,
+      "points": [
+        [
+          1223.0,
+          1178.0
+        ],
+        [
+          1335.9241706161135,
+          1178.0
+        ],
+        [
+          1335.9241706161135,
+          1247.39336492891
+        ],
+        [
+          1223.0,
+          1247.39336492891
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_outpost_bf_count",
+      "score": null,
+      "points": [
+        [
+          265.44502617801044,
+          119.3455497382199
+        ],
+        [
+          328.79581151832457,
+          119.3455497382199
+        ],
+        [
+          328.79581151832457,
+          158.08900523560212
+        ],
+        [
+          265.44502617801044,
+          158.08900523560212
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "zhihui_zhongxin_01.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

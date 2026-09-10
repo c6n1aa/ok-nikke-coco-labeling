@@ -1,0 +1,99 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "box_battle_auto_aim",
+      "score": null,
+      "points": [
+        [
+          13.0,
+          21.0
+        ],
+        [
+          67.0,
+          21.0
+        ],
+        [
+          67.0,
+          74.0
+        ],
+        [
+          13.0,
+          74.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_battle_auto_burst",
+      "score": null,
+      "points": [
+        [
+          82.0,
+          21.0
+        ],
+        [
+          186.0,
+          21.0
+        ],
+        [
+          186.0,
+          74.0
+        ],
+        [
+          82.0,
+          74.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "battle_pause",
+      "score": null,
+      "points": [
+        [
+          2493.8263665594855,
+          20.00000000000005
+        ],
+        [
+          2550.096463022508,
+          20.00000000000005
+        ],
+        [
+          2550.096463022508,
+          73.95498392282958
+        ],
+        [
+          2493.8263665594855,
+          73.95498392282958
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "fangyuzhan_01.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

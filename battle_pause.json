@@ -1,0 +1,41 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "battle_escape",
+      "score": null,
+      "points": [
+        [
+          1052.7630285152409,
+          1302.4090462143558
+        ],
+        [
+          1094.017094017094,
+          1302.4090462143558
+        ],
+        [
+          1094.017094017094,
+          1348.6324786324785
+        ],
+        [
+          1052.7630285152409,
+          1348.6324786324785
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "battle_pause.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

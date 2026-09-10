@@ -1,0 +1,128 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "box_battle_finish_next_stage",
+      "score": null,
+      "points": [
+        [
+          2299.617021335523,
+          1372.8009427678435
+        ],
+        [
+          2322.892883404489,
+          1372.8009427678435
+        ],
+        [
+          2322.892883404489,
+          1391.3957703540505
+        ],
+        [
+          2299.617021335523,
+          1391.3957703540505
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_battle_finish_text",
+      "score": null,
+      "points": [
+        [
+          1096.9675597047658,
+          1197.3798445435393
+        ],
+        [
+          1473.0337078651685,
+          1197.3798445435393
+        ],
+        [
+          1473.0337078651685,
+          1413.258426966292
+        ],
+        [
+          1096.9675597047658,
+          1413.258426966292
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_battle_finish_bottom_right",
+      "score": null,
+      "points": [
+        [
+          2139.0243902439033,
+          1293.658536585366
+        ],
+        [
+          2556.58536585366,
+          1293.658536585366
+        ],
+        [
+          2556.58536585366,
+          1436.5853658536587
+        ],
+        [
+          2139.0243902439033,
+          1436.5853658536587
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "battle_finish_statistics",
+      "score": null,
+      "points": [
+        [
+          2209.8224391150998,
+          1339.4464998622373
+        ],
+        [
+          2243.3826879271073,
+          1339.4464998622373
+        ],
+        [
+          2243.3826879271073,
+          1377.2209567198179
+        ],
+        [
+          2209.8224391150998,
+          1377.2209567198179
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "ta_02.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

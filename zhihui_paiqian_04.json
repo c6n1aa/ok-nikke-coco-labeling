@@ -1,0 +1,70 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "bulletin_board_send_all_confirm",
+      "score": null,
+      "points": [
+        [
+          1305.0,
+          1196.0
+        ],
+        [
+          1344.0,
+          1196.0
+        ],
+        [
+          1344.0,
+          1233.0
+        ],
+        [
+          1305.0,
+          1233.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_bulletin_board_send_modal",
+      "score": null,
+      "points": [
+        [
+          1199.5689655172414,
+          191.7672413793103
+        ],
+        [
+          1237.0689655172414,
+          191.7672413793103
+        ],
+        [
+          1237.0689655172414,
+          221.93965517241375
+        ],
+        [
+          1199.5689655172414,
+          221.93965517241375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "zhihui_paiqian_04.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

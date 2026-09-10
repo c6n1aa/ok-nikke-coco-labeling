@@ -1,0 +1,215 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "box_shop_general_refresh",
+      "score": null,
+      "points": [
+        [
+          298.03776026797607,
+          643.9808153477218
+        ],
+        [
+          319.1408777739713,
+          643.9808153477218
+        ],
+        [
+          319.1408777739713,
+          665.5635491606714
+        ],
+        [
+          298.03776026797607,
+          665.5635491606714
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_shop_title",
+      "score": null,
+      "points": [
+        [
+          133.60323886639674,
+          528.7044534412955
+        ],
+        [
+          490.68825910931173,
+          528.7044534412955
+        ],
+        [
+          490.68825910931173,
+          566.7611336032388
+        ],
+        [
+          133.60323886639674,
+          566.7611336032388
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "shop_general",
+      "score": null,
+      "points": [
+        [
+          33.0,
+          544.0
+        ],
+        [
+          75.0,
+          544.0
+        ],
+        [
+          75.0,
+          583.0
+        ],
+        [
+          33.0,
+          583.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "shop_recyling",
+      "score": null,
+      "points": [
+        [
+          36.648936170212814,
+          1114.0
+        ],
+        [
+          77.0,
+          1114.0
+        ],
+        [
+          77.0,
+          1154.255319148936
+        ],
+        [
+          36.648936170212814,
+          1154.255319148936
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "shop_arena",
+      "score": null,
+      "points": [
+        [
+          31.0,
+          889.0
+        ],
+        [
+          78.0,
+          889.0
+        ],
+        [
+          78.0,
+          917.0
+        ],
+        [
+          31.0,
+          917.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "general_shop_free_item",
+      "score": null,
+      "points": [
+        [
+          229.7267759562842,
+          989.6174863387978
+        ],
+        [
+          284.9180327868853,
+          989.6174863387978
+        ],
+        [
+          284.9180327868853,
+          1020.4918032786885
+        ],
+        [
+          229.7267759562842,
+          1020.4918032786885
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_shop_general_free",
+      "score": null,
+      "points": [
+        [
+          460.63725490196066,
+          628.4313725490196
+        ],
+        [
+          471.29901960784304,
+          628.4313725490196
+        ],
+        [
+          471.29901960784304,
+          638.2352941176471
+        ],
+        [
+          460.63725490196066,
+          638.2352941176471
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "shop_01.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

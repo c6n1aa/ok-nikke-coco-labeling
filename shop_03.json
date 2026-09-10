@@ -1,0 +1,128 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "shop_buy_confirm",
+      "score": null,
+      "points": [
+        [
+          1315.0,
+          1198.0
+        ],
+        [
+          1352.0,
+          1198.0
+        ],
+        [
+          1352.0,
+          1236.0
+        ],
+        [
+          1315.0,
+          1236.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_shop_buy_confirm",
+      "score": null,
+      "points": [
+        [
+          1312.4074074074074,
+          1156.084656084656
+        ],
+        [
+          1355.7936507936508,
+          1156.084656084656
+        ],
+        [
+          1355.7936507936508,
+          1261.904761904762
+        ],
+        [
+          1312.4074074074074,
+          1261.904761904762
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_shop_buy_close",
+      "score": null,
+      "points": [
+        [
+          1575.2252252252251,
+          210.90808416389817
+        ],
+        [
+          1614.8648648648648,
+          210.90808416389817
+        ],
+        [
+          1614.8648648648648,
+          304.9099099099099
+        ],
+        [
+          1575.2252252252251,
+          304.9099099099099
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "shop_buy_close",
+      "score": null,
+      "points": [
+        [
+          1578.1746031746031,
+          232.50000000000003
+        ],
+        [
+          1611.5079365079364,
+          232.50000000000003
+        ],
+        [
+          1611.5079365079364,
+          262.46031746031747
+        ],
+        [
+          1578.1746031746031,
+          262.46031746031747
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "shop_03.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}
