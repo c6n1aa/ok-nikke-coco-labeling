@@ -1,0 +1,41 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "box_event_banner_area",
+      "score": null,
+      "points": [
+        [
+          881.1627906976743,
+          286.143159166415
+        ],
+        [
+          1680.0,
+          286.143159166415
+        ],
+        [
+          1680.0,
+          1324.5152521896707
+        ],
+        [
+          881.1627906976743,
+          1324.5152521896707
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "event_list.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}
