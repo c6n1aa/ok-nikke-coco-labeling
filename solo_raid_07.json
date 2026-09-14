@@ -4,7 +4,7 @@
   "checked": false,
   "shapes": [
     {
-      "label": "solo_raid_quick_battle_page",
+      "label": "custom_quick_battle_page",
       "score": null,
       "points": [
         [
@@ -33,7 +33,7 @@
       "kie_linking": []
     },
     {
-      "label": "solo_raid_quick_battle_max",
+      "label": "custom_quick_battle_max",
       "score": null,
       "points": [
         [
@@ -62,7 +62,7 @@
       "kie_linking": []
     },
     {
-      "label": "box_solo_raid_quick_battle",
+      "label": "box_custom_quick_battle_start",
       "score": null,
       "points": [
         [
@@ -94,5 +94,6 @@
   "imagePath": "solo_raid_07.png",
   "imageData": null,
   "imageHeight": 1440,
-  "imageWidth": 2560
+  "imageWidth": 2560,
+  "description": ""
 }

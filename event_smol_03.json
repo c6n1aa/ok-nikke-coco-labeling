@@ -1,0 +1,41 @@
+{
+  "version": "4.0.2",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "box_stage_detail_quick_battle",
+      "score": null,
+      "points": [
+        [
+          1343.4275618374559,
+          1222.614840989399
+        ],
+        [
+          1376.9964664310953,
+          1222.614840989399
+        ],
+        [
+          1376.9964664310953,
+          1253.0035335689045
+        ],
+        [
+          1343.4275618374559,
+          1253.0035335689045
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "event_smol_03.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}
