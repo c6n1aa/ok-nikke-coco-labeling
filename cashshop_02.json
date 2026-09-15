@@ -1,0 +1,99 @@
+{
+  "version": "4.0.6",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "box_spending_limit_confirm",
+      "score": null,
+      "points": [
+        [
+          1314.268254950495,
+          1083.7292142675806
+        ],
+        [
+          1355.6410256410256,
+          1083.7292142675806
+        ],
+        [
+          1355.6410256410256,
+          1123.076923076923
+        ],
+        [
+          1314.268254950495,
+          1123.076923076923
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_cashshop_limit_option3",
+      "score": null,
+      "points": [
+        [
+          1247.863247863248,
+          899.9145299145299
+        ],
+        [
+          1298.2905982905984,
+          899.9145299145299
+        ],
+        [
+          1298.2905982905984,
+          948.6324786324786
+        ],
+        [
+          1247.863247863248,
+          948.6324786324786
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_cashshop_limit_modal_title",
+      "score": null,
+      "points": [
+        [
+          1071.5662650602408,
+          330.8433734939759
+        ],
+        [
+          1482.4096385542168,
+          330.8433734939759
+        ],
+        [
+          1482.4096385542168,
+          403.13253012048193
+        ],
+        [
+          1071.5662650602408,
+          403.13253012048193
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "cashshop_02.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}
