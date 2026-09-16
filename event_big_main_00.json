@@ -1,5 +1,5 @@
 {
-  "version": "4.0.2",
+  "version": "4.0.6",
   "flags": {},
   "checked": false,
   "shapes": [
@@ -22,6 +22,35 @@
         [
           920.4761904761905,
           1370.4761904761904
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_event_menu_mission",
+      "score": null,
+      "points": [
+        [
+          2418.3720930232557,
+          247.90697674418615
+        ],
+        [
+          2559.0,
+          247.90697674418615
+        ],
+        [
+          2559.0,
+          389.76744186046517
+        ],
+        [
+          2418.3720930232557,
+          389.76744186046517
         ]
       ],
       "group_id": null,
