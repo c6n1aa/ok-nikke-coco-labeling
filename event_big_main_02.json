@@ -4,24 +4,24 @@
   "checked": false,
   "shapes": [
     {
-      "label": "box_event_mission_subtitle",
+      "label": "event_story_field_changed",
       "score": null,
       "points": [
         [
-          942.085308056872,
-          313.7440758293839
+          1318.4920634920636,
+          832.8042328042327
         ],
         [
-          1163.4123222748815,
-          313.7440758293839
+          1347.063492063492,
+          832.8042328042327
         ],
         [
-          1163.4123222748815,
-          377.72511848341236
+          1347.063492063492,
+          861.3756613756614
         ],
         [
-          942.085308056872,
-          377.72511848341236
+          1318.4920634920636,
+          861.3756613756614
         ]
       ],
       "group_id": null,
@@ -33,9 +33,8 @@
       "kie_linking": []
     }
   ],
-  "imagePath": "event_smol_04.png",
+  "imagePath": "event_big_main_02.png",
   "imageData": null,
   "imageHeight": 1440,
-  "imageWidth": 2560,
-  "description": ""
+  "imageWidth": 2560
 }

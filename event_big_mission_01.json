@@ -1,0 +1,128 @@
+{
+  "version": "4.0.6",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "event_mission_daily",
+      "score": null,
+      "points": [
+        [
+          1035.2631578947369,
+          292.36842105263156
+        ],
+        [
+          1079.2105263157894,
+          292.36842105263156
+        ],
+        [
+          1079.2105263157894,
+          336.05263157894734
+        ],
+        [
+          1035.2631578947369,
+          336.05263157894734
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "event_mission_challenge",
+      "score": null,
+      "points": [
+        [
+          1395.3438030560271,
+          291.1587436332767
+        ],
+        [
+          1439.2911714770796,
+          291.1587436332767
+        ],
+        [
+          1439.2911714770796,
+          334.84295415959247
+        ],
+        [
+          1395.3438030560271,
+          334.84295415959247
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_event_daily_subtitle",
+      "score": null,
+      "points": [
+        [
+          942.5000000000001,
+          364.8936170212766
+        ],
+        [
+          1204.7340425531916,
+          364.8936170212766
+        ],
+        [
+          1204.7340425531916,
+          441.4893617021276
+        ],
+        [
+          942.5000000000001,
+          441.4893617021276
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_event_mission_icon",
+      "score": null,
+      "points": [
+        [
+          926.6666666666666,
+          276.6666666666667
+        ],
+        [
+          1633.3333333333333,
+          276.6666666666667
+        ],
+        [
+          1633.3333333333333,
+          348.88888888888886
+        ],
+        [
+          926.6666666666666,
+          348.88888888888886
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "event_big_mission_01.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}
