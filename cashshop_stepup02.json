@@ -1,37 +1,8 @@
 {
-  "version": "4.0.2",
+  "version": "4.0.6",
   "flags": {},
   "checked": false,
   "shapes": [
-    {
-      "label": "cash_shop_limited_time_package",
-      "score": null,
-      "points": [
-        [
-          1185.3491122072041,
-          117.5518122124672
-        ],
-        [
-          1228.8095238095239,
-          117.5518122124672
-        ],
-        [
-          1228.8095238095239,
-          162.43386243386243
-        ],
-        [
-          1185.3491122072041,
-          162.43386243386243
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "difficult": false,
-      "shape_type": "rectangle",
-      "flags": {},
-      "attributes": {},
-      "kie_linking": []
-    },
     {
       "label": "box_cash_shop_stepup_free",
       "score": null,
@@ -41,16 +12,16 @@
           756.1111111111111
         ],
         [
-          1670.689655172414,
+          1712.5581395348838,
           756.1111111111111
         ],
         [
-          1670.689655172414,
-          814.6120689655172
+          1712.5581395348838,
+          839.7674418604652
         ],
         [
           1489.7222222222222,
-          814.6120689655172
+          839.7674418604652
         ]
       ],
       "group_id": null,
@@ -89,9 +60,38 @@
       "flags": {},
       "attributes": {},
       "kie_linking": []
+    },
+    {
+      "label": "cash_shop_limited_time_package",
+      "score": null,
+      "points": [
+        [
+          1185.3491122072041,
+          117.5518122124672
+        ],
+        [
+          1228.8095238095239,
+          117.5518122124672
+        ],
+        [
+          1228.8095238095239,
+          162.43386243386243
+        ],
+        [
+          1185.3491122072041,
+          162.43386243386243
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
     }
   ],
-  "imagePath": "cashshop_stepup01.png",
+  "imagePath": "cashshop_stepup02.png",
   "imageData": null,
   "imageHeight": 1440,
   "imageWidth": 2560,
