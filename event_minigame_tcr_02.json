@@ -1,0 +1,40 @@
+{
+  "version": "4.0.6",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "event_minigame_start",
+      "score": null,
+      "points": [
+        [
+          1179.047619047619,
+          1290.4761904761904
+        ],
+        [
+          1258.095238095238,
+          1290.4761904761904
+        ],
+        [
+          1258.095238095238,
+          1327.6190476190475
+        ],
+        [
+          1179.047619047619,
+          1327.6190476190475
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "event_minigame_tcr_02.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560
+}

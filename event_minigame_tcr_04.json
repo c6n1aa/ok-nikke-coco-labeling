@@ -1,0 +1,128 @@
+{
+  "version": "4.0.6",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "box_event_minigame_score",
+      "score": null,
+      "points": [
+        [
+          1119.5348837209303,
+          29.3023255813954
+        ],
+        [
+          1443.953488372093,
+          29.3023255813954
+        ],
+        [
+          1443.953488372093,
+          101.39534883720935
+        ],
+        [
+          1119.5348837209303,
+          101.39534883720935
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "event_minigame_pause",
+      "score": null,
+      "points": [
+        [
+          1596.2663755458514,
+          42.35807860262009
+        ],
+        [
+          1642.3362445414846,
+          42.35807860262009
+        ],
+        [
+          1642.3362445414846,
+          85.58951965065502
+        ],
+        [
+          1596.2663755458514,
+          85.58951965065502
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_event_minigame_quick_finish",
+      "score": null,
+      "points": [
+        [
+          1108.7958115183246,
+          883.7696335078533
+        ],
+        [
+          1137.5916230366493,
+          883.7696335078533
+        ],
+        [
+          1137.5916230366493,
+          907.3298429319372
+        ],
+        [
+          1108.7958115183246,
+          907.3298429319372
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "event_minigame_pause_close",
+      "score": null,
+      "points": [
+        [
+          1590.6936416184972,
+          520.8092485549133
+        ],
+        [
+          1633.4682080924856,
+          520.8092485549133
+        ],
+        [
+          1633.4682080924856,
+          563.5838150289018
+        ],
+        [
+          1590.6936416184972,
+          563.5838150289018
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "event_minigame_tcr_04.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}
