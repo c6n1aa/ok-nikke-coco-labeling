@@ -1,0 +1,69 @@
+{
+  "version": "4.0.6",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "box_carena_promotion_enter",
+      "score": null,
+      "points": [
+        [
+          1259.0697674418604,
+          995.5813953488373
+        ],
+        [
+          1302.093023255814,
+          995.5813953488373
+        ],
+        [
+          1302.093023255814,
+          1045.5813953488373
+        ],
+        [
+          1259.0697674418604,
+          1045.5813953488373
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_carena_champion_enter",
+      "score": null,
+      "points": [
+        [
+          1525.3488372093022,
+          999.0697674418606
+        ],
+        [
+          1568.3720930232557,
+          999.0697674418606
+        ],
+        [
+          1568.3720930232557,
+          1049.0697674418607
+        ],
+        [
+          1525.3488372093022,
+          1049.0697674418607
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "cjjc_01.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560
+}

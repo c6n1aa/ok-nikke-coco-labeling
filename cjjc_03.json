@@ -1,0 +1,128 @@
+{
+  "version": "4.0.6",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "box_carena_cheer_ratio",
+      "score": null,
+      "points": [
+        [
+          987.0921985815603,
+          675.1773049645391
+        ],
+        [
+          1574.3262411347519,
+          675.1773049645391
+        ],
+        [
+          1574.3262411347519,
+          687.2340425531916
+        ],
+        [
+          987.0921985815603,
+          687.2340425531916
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "carena_cheer_detail_p1",
+      "score": null,
+      "points": [
+        [
+          1047.6484251602712,
+          715.7285203405901
+        ],
+        [
+          1076.0172194865124,
+          715.7285203405901
+        ],
+        [
+          1076.0172194865124,
+          740.5512153760511
+        ],
+        [
+          1047.6484251602712,
+          740.5512153760511
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "carena_cheer_detail_p2",
+      "score": null,
+      "points": [
+        [
+          1383.5460992907801,
+          715.6028368794326
+        ],
+        [
+          1411.9148936170213,
+          715.6028368794326
+        ],
+        [
+          1411.9148936170213,
+          740.4255319148937
+        ],
+        [
+          1383.5460992907801,
+          740.4255319148937
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_carena_cheer_detail_confirm",
+      "score": null,
+      "points": [
+        [
+          1351.9257535672925,
+          1223.418544608421
+        ],
+        [
+          1390.2081407579767,
+          1223.418544608421
+        ],
+        [
+          1390.2081407579767,
+          1260.9731297612593
+        ],
+        [
+          1351.9257535672925,
+          1260.9731297612593
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "cjjc_03.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

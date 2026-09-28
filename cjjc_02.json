@@ -1,0 +1,40 @@
+{
+  "version": "4.0.6",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "box_carena_cheer_button",
+      "score": null,
+      "points": [
+        [
+          1157.906976744186,
+          1268.8372093023256
+        ],
+        [
+          1206.7441860465117,
+          1268.8372093023256
+        ],
+        [
+          1206.7441860465117,
+          1314.186046511628
+        ],
+        [
+          1157.906976744186,
+          1314.186046511628
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "cjjc_02.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560
+}
