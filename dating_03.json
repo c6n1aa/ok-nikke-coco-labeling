@@ -1,5 +1,5 @@
 {
-  "version": "4.0.2",
+  "version": "4.0.6",
   "flags": {},
   "checked": false,
   "shapes": [
@@ -457,6 +457,35 @@
         [
           1079.2788461538462,
           64.1826923076923
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "box_lobby_right_side_panel",
+      "score": null,
+      "points": [
+        [
+          2240.0,
+          150.0
+        ],
+        [
+          2560.0,
+          150.0
+        ],
+        [
+          2560.0,
+          830.0
+        ],
+        [
+          2240.0,
+          830.0
         ]
       ],
       "group_id": null,
